@@ -6,7 +6,7 @@ _G["HoHo Fruits Collector"] = {
     ["Bypass Teleport"] = true, -- faster farming :3
     ["Webhook"] = {
         ["Enable"] = true, --useful
-        ["Webhook Link"] = "https://discord.com/api/webhooks/1192292628587352114/UqSbtAI1tMlspadn3I3q0N2lYvX4qcYZi8AqIeELenTRtyqp72bYtjIii2vyqYYYJ4zO",
+        ["Webhook Link"] = "https://discord.com/api/webhooks/1192652802598654023/sO1PjsK1oNnMWUwv65JoQUSpyGfzYDI83jSPYK1fZyHXU4mbdRssbPrWsWyKtrR9C7Ed",
     },
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
