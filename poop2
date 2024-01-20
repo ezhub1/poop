@@ -42,7 +42,7 @@ _G["Fumo Blox Fruit - HoHo Hub Kaitun V3"] = {
         ["Full 3 Leg Sword and True Triple Katana"] = true, -- enabled this if u want 100% get true triple katana
     },
     HopServerFarm = true, -- true/false why not?
-    StopRaidWhenGetEnoughFrag = 20000, --10k is enough so we will farm faster
+    StopRaidWhenGetEnoughFrag = 10000, --10k is enough so we will farm faster
     PVP_FARM = true, -- kill player grind exp fast
     ShowAccountInfo = false, -- an ui with your account information
 }
@@ -52,10 +52,6 @@ _G.SupperFixLag = true
 _G["Use Webhook"] = {
     Enable = true,
     Webhook = "https://discord.com/api/webhooks/1191544722678886510/5xFQMRooiNr6QfxONTd7HxuygfUQiSoWD54ckWtPuKSer3_T9npW1Qv1iyyW9YKDF00J",
-}
-_G["Candy Event"] = {
-    BuyX2 = true,
-    BuyFrag = true,
 }
 _G["Farm Sea Events When AllDone"] = {
     Enable = true, -- enable it or not
